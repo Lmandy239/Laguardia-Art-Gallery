@@ -1,0 +1,47 @@
+body{
+    background-color:#091f2f;
+}
+
+main{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+/*Everything below this line will be classes and ids within main */
+
+.firstp{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article1{}
+
+.article2{}
+
+.article3{}
+
+.secondp
+ 
+/*links below */
+a {
+    color:blue }
+a:visited{
+    color: blue;
+}
+
+
+
+/*Everything above will be classes and ids within main */
+footer{
+    background-color:rgb(190, 186, 186);
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
